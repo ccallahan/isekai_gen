@@ -14,7 +14,6 @@ pyramid-jinja2 = "^2.10"
 pyramid-debugtoolbar = "^4.9"
 waitress = "^2.1.2"
 plaster-pastedeploy = "^1.0.1"
-isekai-title-generator = {git = "https://github.com/ccallahan/isekai_gen.git"}
 
 
 [build-system]
