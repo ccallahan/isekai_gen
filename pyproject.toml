@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "isekai-title-generator"
+name = "isekai-gen"
 version = "0.1.0"
 description = "Isekai Title Generator"
 authors = ["Chance Callahan"]
