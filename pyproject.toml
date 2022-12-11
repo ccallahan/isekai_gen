@@ -5,7 +5,7 @@ description = "Isekai Title Generator"
 authors = ["Chance Callahan"]
 license = "MIT License"
 readme = "README.md"
-packages = [{include = "isekai_gen"}]
+packages = [{include = "isekai-gen"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
