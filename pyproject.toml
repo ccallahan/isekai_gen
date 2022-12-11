@@ -1,10 +1,11 @@
 [tool.poetry]
-name = "isekai-gen"
+name = "isekai-title-generator"
 version = "0.1.0"
 description = "Isekai Title Generator"
 authors = ["Chance Callahan"]
 license = "MIT License"
 readme = "README.md"
+packages = [{include = "isekai_gen"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
