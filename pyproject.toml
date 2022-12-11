@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Isekai Title Generator"
 authors = ["Chance Callahan"]
 license = "MIT License"
-readme = "README.md"
+readme = "README.txt"
 packages = [{include = "isekai_title_generator"}]
 
 [tool.poetry.dependencies]
