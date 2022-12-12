@@ -15,6 +15,8 @@ pyramid-debugtoolbar = "^4.9"
 waitress = "^2.1.2"
 plaster-pastedeploy = "^1.0.1"
 
+[tool.poetry.plugins."paste.app_factory"]
+main = "isekai_title_generator:main"
 
 [build-system]
 requires = ["poetry-core"]
